@@ -10,13 +10,14 @@ It also works seamlessly with [Obsidian](https://obsidian.md/), helping you turn
 
 ## ✨ Features
 
-- Minimalist style theme, adaptable to multiple platforms
-- Support `light` and `dark` mode.
-- Zero-based quick start, foolproof configuration, easy deployment
-- Support for article drafts, local preview, and automatic draft filtering in production builds
-- Default RSS generation with Follow subscription authentication
-- Integrated Algolia search
-- Complete SEO optimization to improve search engine rankings
+- Minimalist design theme
+- Mobile-first responsive layout
+- Light and dark mode support
+- Quick setup with zero configuration required
+- Draft mode with local preview and automatic production filtering
+- Built-in RSS feed with Follow authentication
+- Integrated Algolia search functionality
+- Comprehensive SEO optimization for better search rankings
 
 ## 🪜 Framework
 
@@ -42,6 +43,8 @@ yarn build
 # or
 pnpm build
 ```
+
+> If you fork the repository and set it to private, you will lose the association with the upstream repository by default. You can sync the latest version of Slate Blog by running `pnpm sync-latest`.
 
 ## 🗂 Directory Structure
 
@@ -76,19 +79,40 @@ Theme configuration is done through `slate.config.ts` in the root directory.
 | algolia | Docsearch configuration | `{ appId: string, apiKey: string, indexName: string }` | - |
 | follow | Follow subscription authentication configuration | `{ feedId: string, userId: string }` | - |
 | footer | Website footer configuration | `{ copyright: string }` | - |
+| socialLinks | Social Links Configuration | `{ icon: [SocialLinkIcon](#SocialLinkIcon), link: string, ariaLabel?: string }` | - |
+
+
+### SocialLinkIcon
+
+```ts
+type SocialLinkIcon =
+  | 'dribbble'
+  | 'facebook'
+  | 'figma'
+  | 'github'
+  | 'instagram'
+  | 'link'
+  | 'mail'
+  | 'notion'
+  | 'rss'
+  | 'threads'
+  | 'x'
+  | 'youtube'
+  | { svg: string }
+```
 
 ### Algolia Application
 
 1. Deploy your site first
 2. Apply for an `apiKey` at [algolia](https://docsearch.algolia.com/apply/)
 3. After successful application, configure `algolia` in `slate.config.ts`
-4. Redeploy
+4. Redeploy your site
 
 ### Follow Subscription Authentication
 
 1. Register a [follow](https://follow.is/) account
 2. Deploy your site
-3. Click the `+` button on `follow`, select `RSS` subscription, and enter the `rss` link (usually `[site]/rss.xml`, where `site` is the value of `site` in `slate.config.ts`)
+3. Click the `+` button on Follow, select `RSS` subscription, and enter the `rss` link (usually `[site]/rss.xml`, where `site` is the value of `site` in `slate.config.ts`)
 4. Redeploy
 
 ## Article Frontmatter Description
@@ -135,11 +159,6 @@ Using `:::` markers
   This is an information prompt
   :::
   ```
-  The result will be displayed as:
-
-  :::info
-  This is an information prompt
-  :::
 
 #### LaTeX Mathematical Formulas
   - Inline formula: $E = mc^2$
@@ -149,15 +168,17 @@ Using `:::` markers
   ```md
   ![Image caption](image-url)
   ```
-The result will be displayed as:
-
-![Slate Blog Preview](https://pub-acdbc21bc3964d18a684b0c51010a4e5.r2.dev/slate-blog-preview.png)
   
 ## Updates
+### Version 1.2.0
+- Support Social Links
+- Support i18n (English and Chinese)
+- Fixed known issues
+
 ### Version 1.1.1
 - Fixed known issues
 
-### Version 1.1
+### Version 1.1.0
 - Upgraded to support [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)
 - Added dark mode support
 - Fixed known issues
