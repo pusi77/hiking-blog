@@ -8,8 +8,6 @@ tags:
 pubDate: 2025-03-02
 ---
 
-# Nella Terra di Eolo
-
 Le terre che si trovano incastrate tra Emilia-Romagna, Piemonte e Liguria 
 sono diventate una zona sensibile alla nostra sete di avventura e 
 ricerca: una regione piena di muschio come la Contea e castelli 
@@ -40,7 +38,7 @@ serio e affidabile e abbiamo con noi anche il mio amico Andrux, un altro
 squalo di montagna (sarebbe l’equivalente del lupo di mare), un parallelepipedo di muscoli che dopo 3 anni di arrampicata con una mano scala le pareti, con l’altra scrolla 
 su Instagram.
 
-I presupposti dell’epico ci sono, quindi io, Andrux, Krum, Supino, 
+I presupposti dell’epico ci sono, quindi io, Andrux, Krum, Pelo, 
 Goreski e Zumba ci incontriamo al solito checkpoint per comprare i 
 panini e discutere sul nome della lonza e della coppa: posteriori 
 ricerche hanno stabilito che il fraintendimento proviene da una mia 
@@ -138,7 +136,7 @@ subito sulla destra, lunghi tavoli di legno e un bancone sulla sinistra, erano g
 
 È finalmente il momento per i guerrieri di rifocillarsi sia le membra con una riscaldata e un caffè lungo che lo spirito con una sessione senza pretese di cantautorato italiano alla chitarra con varie foto successive (perché alla fine anche noi volevamo un po'  sentirci Renato Zero).
 
-Dopo un po'  che i nostri animi si stavano ammollendo, Supino pensa a 
+Dopo un po'  che i nostri animi si stavano ammollendo, Pelo pensa a 
 riportare tutti con i piedi per terra ricordandoci che siamo 
 praticamente all’inizio della nostra traversata e, appena siamo usciti 
 non ci sembrava possibile, risentendo di nuovo il vento addosso, che 
@@ -150,7 +148,7 @@ Il sentiero scorreva sempre più o meno uguale a se stesso, il terreno era
 molto più ricoperto dell’erba secca che, ammorbidita dalle acque dei 
 giorni precedenti, formava una sorta di tappeto in certi punti: stavamo 
 scendendo in una discesa con una pendenza docile come quella della 
-salita, con la sola (non trascurabile) differenza che erano i cuscinetti di neve e ghiaccio che si trovavano proprio sul sentiero da calpestare, quindi, se prima per me e Supino prima poteva esserci solo qualche infelice circostanza che ci poteva portare a non incastrare bene il 
+salita, con la sola (non trascurabile) differenza che erano i cuscinetti di neve e ghiaccio che si trovavano proprio sul sentiero da calpestare, quindi, se prima per me e Pelo prima poteva esserci solo qualche infelice circostanza che ci poteva portare a non incastrare bene il 
 piede sul tracciato (data la grande maestria), dopo che ci siamo vestiti dei ramponcini di Decathlon entry level ai piedi, un albero sarebbe stato sradicato più facilmente di noi.
 
 Dopo circa 5 metri dal primo mucchietto la neve è poi sparita in buona 
@@ -206,3 +204,5 @@ Salame Crudo (CESC a.k.a. Varzi) ha allungato il viaggio di ritorno che
 di solito sembra sempre più breve dell’andata ma stavolta no.
 
 Proprio da li dove eravamo partiti, ci separiamo da Andrux (non io ma tutti gli altri) con uno struggente e caloroso saluto che ci riporta nelle nostre dimore, da dove ancora riusciamo a percepire la maestosità di madre natura e l’inafferrabilità dell’Alfiere Nero.
+
+*Totti*
