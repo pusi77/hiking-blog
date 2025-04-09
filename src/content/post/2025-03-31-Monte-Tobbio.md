@@ -45,7 +45,7 @@ non mi giudicate, siete come me.*
 
 Ebbene sì, come avrete immaginato quell'escursione mi è piaciuta tanto che la mia app del meteo ha Voltaggio tra i preferiti da allora, in attesa di un bel weekend di sole per farci un altro giretto..e finalmente il momento è arrivato.
 
-Lesto propongo sulla chat Whatsapp il percorso con cui tormento da settimane i miei poveri compagni di trekking. Purtroppo però la vita è fatta di compromessi, approfittare del bel tempo è significato rinunciare alla presenza di Krum, intento a conquistare Monaco, e Totti, tornato in madrepatria. Diverso è stato per Chef, la cui presenza è solitamente legata al dislivello del percorso. Dopo tante volte che ho provato a convincerlo a venire con noi su sentieri leggermente impegnativi sono finalmente riuscito a sintetizzare l'algoritmo di handshake che determina la sua presenza o meno per l'escursione. Funziona più o meno così:
+Lesto propongo sulla chat Whatsapp il percorso con cui tormento da settimane i miei poveri compagni di trekking. Purtroppo però la vita è fatta di compromessi, approfittare del bel tempo ha significato rinunciare alla presenza di Krum, intento a conquistare Monaco, e Totti, tornato in madrepatria. Diverso è stato per Chef, la cui presenza è solitamente legata al dislivello del percorso. Dopo tante volte che ho provato a convincerlo a venire con noi su sentieri leggermente impegnativi sono finalmente riuscito a sintetizzare l'algoritmo di handshake che determina la sua presenza o meno per l'escursione. Funziona più o meno così:
 
 - Chef pensa a un numero da 1 a 9. La distribuzione con cui questo numero viene estratto è fortemente sbilanciata verso i numeri bassi. Il numero scelto non viene reso noto.
   
@@ -80,7 +80,7 @@ Procediamo per il bosco per un altro quarto d'ora e finalmente iniziamo ad emerg
 
 Ancora ignoriamo cosa quella montagna rappresenterà per il nostro pomeriggio, dunque proseguiamo spensierati.
 
-Procediamo ancora un pochino e davanti a noi si apre il paesaggio da cui possiamo vedere il passo Passo della Dagliola (sulla sinistra) e il Monte Tobbio (al centro).
+Procediamo ancora un pochino e davanti a noi si apre il paesaggio da cui possiamo vedere il Passo della Dagliola (sulla sinistra) e il Monte Tobbio (al centro).
 
 ![Costa Cravara](public/posts/2025-03-31-Monte-Tobbio/CostaCravara.webp)
 
