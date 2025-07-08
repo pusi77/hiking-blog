@@ -130,4 +130,5 @@ Da questa cena ci portiamo a casa che le Tre Marie sono super simpatiche, molto 
 A cena finita siamo distrutti, senza farci troppi problemi voliamo tutti nelle nostre stanze a riposare, anche perché domani la sveglia sarebbe stata molto presto, almeno per noi.
 
 E così finisce la prima giornata della mia VDD, spero di metterci meno di due mesi a scrivere il resoconto della seconda.
+
 *Pelo*
