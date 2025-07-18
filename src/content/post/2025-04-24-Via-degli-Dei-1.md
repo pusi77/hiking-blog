@@ -3,7 +3,7 @@ title: "Via degli Dei 1/5: Nu pesce pigliato ca botta"
 description: Da Bologna a Brento
 tags:
   - ViaDegliDei
-  - EmiliaRomagna
+  - Emilia-Romagna
 pubDate: 2025-04-24
 ---
 
