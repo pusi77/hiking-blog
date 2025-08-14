@@ -33,10 +33,13 @@ Mentre camminiamo verso la statua del Nettuno di Piazza Maggiore, Dar mi rivela 
 Come intravediamo la statua del Nettuno, Dar comincia a pianificare il posizionamento del cavalletto per il video di rito. Purtroppo però, il punto prescelto per il posizionamento è momentaneamente occupato da un furgone bianco, da cui vediamo scendere un ragazzo con in mano un retino. A quanto pare siamo arrivati esattamente durante l'orario di pulizia della fontana alla base della statua.<br>
 Per guadagnare un po' di tempo sperando che la manutenzione sia rapida, Dar mi trascina sotto un portico subito a lato della statua e mi dice di mettermi in un angolo ben preciso, rivolto verso il muro e molto vicino ad esso. Mi dice di non muovermi e lo sento camminare nella direzione opposta. La situazione sta diventando strana. All'improvviso lo sento parlare molto vicino a me, mi giro e lo vedo nell'angolo opposto, anche lui nella mia stessa posizione, rivolto verso il muro. Sono confuso. A quanto pare, per una serie di magie architettoniche a me sconosciute, in questa "stanza" è possibile comunicare tra angoli opposti sussurrando verso il muro. Si dice che ciò sia stato architettato nel medioevo per permettere agli appestati di confessarsi.<br>
 Finita l'esperienza, torniamo in direzione della fontana che, ovviamente, sta ancora venendo pulita, ma è troppo tardi per stare ad aspettare e procediamo alle foto e video di rito davanti alla statua.
-<Image
-  src="/posts/2025-04-24-Via-degli-Dei-1/BolognaNettuno.webp"
-  alt="Il Nettuno"
-/>
+<figure>
+  <Image
+    src="/posts/2025-04-24-Via-degli-Dei-1/BolognaNettuno.webp"
+    alt="Il Nettuno"
+  />
+  <figcaption>Il Nettuno</figcaption>
+</figure>
 
 ## Un santuario della Madonna
 In giro non si vede nessuno zaino da trekking e Dar è un po' in ansia perché siamo due ore in ritardo rispetto a quando è partito la prima volta qualche anno fa.
@@ -47,27 +50,36 @@ Purtroppo però quest'entusiasmo dura ben poco perché dopo non molto i portici 
 
 Fast forward su qualche migliaio di gradini e dopo quella che è sembrata un'eternità abbiamo una visione: la croce. Siamo fradici, ma ce l'abbiamo fatta.
 
-<Image
-  src="/posts/2025-04-24-Via-degli-Dei-1/PorticiSanLuca.webp"
-  alt="Non siamo mai stati così contenti di vedere una croce"
-/>
+<figure>
+  <Image
+    src="/posts/2025-04-24-Via-degli-Dei-1/PorticiSanLuca.webp"
+    alt="Non siamo mai stati così contenti di vedere una croce"
+  />
+  <figcaption>Non siamo mai stati così contenti di vedere una croce</figcaption>
+</figure>
 
 Arrivati in cima siamo un po' provati, ma continuiamo ad andare avanti e scendiamo nel giardino, dove rimaniamo estasiati. Chiaramente la causa di questa estasi non è dovuta alla bellezza del santuario, ma alla sola presenza di una fontana e di qualche panchina. Più stanchi che assetati ci lanciamo su una delle panchine a fare uno spuntino, ridendo e scherzando ho fatto colazione alle 5 del mattino e inizio a percepire un certo languore. Mentre ci godiamo la meritata pausa iniziano ad apparire altri sciagurati come noi che percorrono il cammino. Per primo arriva un uomo sui 45-50 anni, molto magro, ma atletico, con un cespuglio di riccioli tenuti in alto da uno spesso elastico che gli cinge la fronte. Un individuo difficile da dimenticare, no? E qui commetto un errore imperdonabile, un errore che ripeterò decisamente troppe volte e di cui mi renderò conto solo dopo aver finito il cammino: non prestare attenzione ai compagni di viaggio. Siccome il percorso è uguale per tutti, ogni persona vista anche solo di sfuggita si ripresenterà più avanti nel cammino, fare attenzione a ricordare nomi e volti è fondamentale. Purtroppo per me, nel mio cervello avevo già delegato ogni interazione sociale a Dar per potermi concentrare sulla mia sopravvivenza fisica.<br>
 Dopo una minima interazione con questo riccioluto individuo vediamo scendere dalla scalinata 3 ragazze, allegre, anche loro rumorose, ma con certezza posso affermare che non sono le stesse del treno. Siamo molto lontani, ma anche dalla distanza vengo colpito in particolare da una di loro. Ha tatuaggi ovunque, su gambe, braccia e perfino dietro la testa, dove i capelli sono raccolti e rasati fino all'altezza delle orecchie (anch'esse tatuate, ovviamente). Hanno un'aria un po' spaesata, ci guardano e da lontano di chiedono qualcosa. Non capiamo bene cosa, ma Dar con sicurezza risponde "si va di qua", indicando le scale dietro di noi che portano alla parte successiva del percorso. Sebbene non abbia inteso appieno cosa ci abbiano chiesto, mi pareva di aver carpito la parola "credenziale" e credo che la stessa cosa sia successa a Dar, in quanto, mentre le ragazze si avvicinavano a noi, si corregge: "ah no, la credenziale? non lo so". Sono le prime parole con altre persone sul cammino e già stiamo facendo delle figure. Le ragazze sorridono e, mentre fanno dietro front, il signore riccioluto, che ha assistito alla scena, le indirizza verso la parte alta del santuario.<br>
 Con la testa bassa ci dirigiamo alla fontana per rinfrescarci, facciamo un paio di foto e ci dileguiamo.
 
-<Image
-  src="/posts/2025-04-24-Via-degli-Dei-1/SanLuca.webp"
-  alt="San Luca"
-/>
+<figure>
+  <Image
+    src="/posts/2025-04-24-Via-degli-Dei-1/SanLuca.webp"
+    alt="San Luca"
+  />
+  <figcaption>San Luca</figcaption>
+</figure>
 
 ## Fango.
 Oltre San Luca c'è un breve tratto asfaltato che ci porta fino ad un cartello con la scritta "Via degli Dei". Essendo il primo cartello che vediamo da quando siamo partiti, una foto è d'obbligo.
 
-<Image
-  src="/posts/2025-04-24-Via-degli-Dei-1/CartelloVDD.webp"
-  alt="Esaltati per un comunissimo cartello"
-/>
+<figure>
+  <Image
+    src="/posts/2025-04-24-Via-degli-Dei-1/CartelloVDD.webp"
+    alt="Esaltati per un comunissimo cartello"
+  />
+  <figcaption>Esaltati per un comunissimo cartello</figcaption>
+</figure>
 
 Da qui in poi la strada diventa un classico sentiero di bassa montagna, stretto e pieno di piante che ci fanno un po' d'ombra. Della pioggia ancora nessuna traccia, anzi, il cielo è azzurro e con poche nuvole. Questo tratto è in leggera discesa, menomale, almeno possiamo riposare un po'. Dopo essere scesi dalla collina ci troviamo di nuovo in piano, ma una scelta si pone dinnanzi a noi:
 - strada rossa: è la traccia "ufficiale", costeggia il Reno sulla sponda destra, su un sentiero.
@@ -79,19 +91,25 @@ Terminato il tratto erbaceo del parco ci troviamo su una strada sterrata dove in
 
 Giusto il tempo di finire di lamentarci dell'anziano chiacchierone e il sentiero comincia a diventare più selvaggio, la strada sterrata comincia a diventare terra vera e propria e la boscaglia lascia il posto a piante basse e fitte. Passo dopo passo la terra comincia a diventare sempre più morbida fino a che non iniziamo a incontrare qualche pozzanghera. Le pozzanghere si fanno via via più grosse e il fango via via più profondo. I passi cominciano a diventare faticosi, il fango ormai arriva oltre metà scarpa, ogni volta che si prova a sollevare il piede da terra, quest'ultima oppone una certa resistenza. Il fango risucchia la scarpa così forte che inizio a temere che mi si stacchino le suole, ma questo timore viene velocemente spazzato via da uno più grande: adesso davanti a noi è tutto completamente allagato, il sentiero è almeno 20 centimetri sott'acqua e non per qualche metro, ma a perdita d'occhio.
 
-<Image
-  src="/posts/2025-04-24-Via-degli-Dei-1/Fango.webp"
-  alt="In realtà poi ci siamo infangati ancora di più, ma non ho foto"
-/>
+<figure>
+  <Image
+    src="/posts/2025-04-24-Via-degli-Dei-1/Fango.webp"
+    alt="In realtà poi ci siamo infangati ancora di più, ma non ho foto"
+  />
+  <figcaption>In realtà poi ci siamo infangati ancora di più, ma non ho foto</figcaption>
+</figure>
 
 Cominciamo quindi a spostarci a lato del sentiero, scalando salite scivolose e passando attraverso la fitta vegetazione. Talmente fitta che a tratti devo procedere camminando all'indietro, usando lo zaino come ariete per districare le piante. Rallentati dal fango, veniamo raggiunti dai Toscani, due individui *particolari* che ci accompagneranno per tutto questo difficile tratto. Sono due figure molto diverse. Il primo è calvo, sulla 50ina, atletico, porta un cappello in stile deserto del Sahara e periodicamente si butta a capofitto nella vegetazione, ricomparendo sul sentiero decine di metri dopo, come se nulla fosse. Il suo superpotere è trovare asparagi selvatici ogni pochi metri e con avidità papparseli tutti. Il secondo ha in comune con il primo solo la fascia d'eta, è grasso, goffo ed è stato tutto il tempo al telefono. Il loro soprannome è dovuto a una frase pronunciata con accento fortemente toscano da uno di loro "come puoi sentire dall'accento noi si torna a casa".<br>
 Mentre siamo tutti e quattro intenti a non cadere nel fango, il sentiero inizia a diventare impercorribile. Ogni pochi minuti ci fermiamo per decidere in che direzione andare per evitare di finire inghiottiti dal fango. Proprio in questa situazione una donna ci compare alle spalle. È silenziosissima, ci saluta sottovoce e ci supera senza pudore. Ha un passo molto più veloce del nostro e sembra che sappia sempre dove mettere giù il prossimo passo. Con un solo sguardo capiamo di aver avuto tutti stessa idea: dobbiamo starle dietro, lei ci porterà fuori da questa giungla. Iniziamo praticamente a correre per riuscire a seguirla. Riusciamo a tenere il suo passo per circa 5 minuti, fino a che ci rendiamo conto di aver seminato i Toscani. All'improvviso sentiamo una voce: "Ciao! Andate a Firenze?", ci giriamo, dietro di noi non c'è nessuno. Ci guardiamo intorno e lo vediamo arrivare dal lato, mentre sposta le piante con le mani. Non gli diamo il tempo nemmeno di presentarsi e rispondiamo che sì, stiamo andando a Firenze e che la nostra unica possibilità di arrivarci è seguire una donna che ormai vediamo a malapena. Mentre inseguiamo la nostra salvatrice ci presentiamo. Lui è Borbone, un calvo e barbuto veterinario di Napoli, è giovane, ha uno zaino non particolarmente tecnico e va in giro con una tote bag a tracolla. Ci racconta che settimana scorsa ha avuto una brutta febbre e ha deciso di partire all'ultimo. Alla domanda "dove ti fermi a dormire stasera?" risponde "eh, non so vediamo, non ho ancora prenotato niente, per sicurezza mi sono portato dietro la tenda". Dar sbianca, noi abbiamo prenotato 6 mesi fa, letteralmente l'anno scorso. Mentre chiacchieriamo perdiamo completamente di vista il nostro punto di riferimento, ma grazie al cielo non è più necessario perché siamo finalmente usciti dal pantano e siamo su una strada asfaltata, cosa che generalmente ci farebbe storcere il naso, ma in questo momento sembra un sogno.<br>
 Ad alzare ancora di più gli animi ci compare davanti una fontanella, sotto cui ci facciamo praticamente una doccia e puliamo parzialmente le scarpe. Preso dall'euforia Dar se ne esce con "senti, ma ti posso fare un video per un mio amico mentre dici *Si nu pisc pigliato ca' bott*?". In realtà c'è un po' più di backstory, ma mi piace immaginarlo così, come una richiesta improvvisa.
 
-<Image
-  src="/posts/2025-04-24-Via-degli-Dei-1/NoMoreFango.webp"
-  alt="Asfalto e appropriazione culturale"
-/>
+<figure>
+  <Image
+    src="/posts/2025-04-24-Via-degli-Dei-1/NoMoreFango.webp"
+    alt="Asfalto e appropriazione culturale"
+  />
+  <figcaption>Asfalto e appropriazione culturale</figcaption>
+</figure>
 
 Camminiamo ancora per un bel po', fino a che arriviamo a una panchina di legno, dove ci fermiamo a mangiare.<br>
 Borbone finisce di mangiare prima di noi e ci avvisa che avrebbe fatto un paio di telefonate per la sera. Lo guardiamo incamminarsi sul sentiero, telefono appoggiato all'orecchio, fino a che non scompare dietro una curva. Non vedremo Borbone mai più. Ad ogni persona incontrata sul percorso chiederemo se lo ha incrociato, tutti risponderanno negativamente. Se non fosse per le foto avremmo ipotizzato un'allucinazione collettiva, in fondo stiamo parlando di un individuo che nessuno ha visto, comparso nel momento del bisogno e scomparso quando le difficoltà sono passate.
@@ -104,10 +122,13 @@ Io procedo incollato al telefono, impegnato a fissare la traccia GPX, manca vera
 Arrivati alla fatidica fontana salutiamo il Valdostano, che rimane a riposare su una panchina, lui si fermerà più avanti di noi sul percorso, sotto il monte Adone, che invece noi affronteremo domattina. Salutato il nostro riccioluto amico procediamo a una serie di round di morra cinese per decidere chi sarà il primo a fare la doccia. Giocheremo ogni giorno e oggi sarà la mia unica vittoria, con un rimontone terminato 15-11.
 
 ## Le nascita delle Piccole Raiede
-<Image
-  src="/posts/2025-04-24-Via-degli-Dei-1/PiccolaRaieda.webp"
-  alt="Piccola Raieda"
-/>
+<figure>
+  <Image
+    src="/posts/2025-04-24-Via-degli-Dei-1/PiccolaRaieda.webp"
+    alt="Piccola Raieda"
+  />
+  <figcaption>Piccola Raieda</figcaption>
+</figure>
 L'agriturismo Piccola Raieda si trova letteralmente sul sentiero della Via degli Dei. Man mano che ci avviciniamo notiamo delle persone sedute dall'altra parte della strada rispetto al cancello dell'agriturismo. All'inizio ci sembra strano, ma appena arriviamo davanti al cancello capiamo il perché: "Non si effettuano check-in prima delle 17" dichiara perentorio il cartello affisso vicino alla cassetta della posta. Sono le 16, manca un'ora. Fortunatamente una delle persone arrivate prima di noi ci fa sapere che il proprietario gli ha detto che a breve sarebbe arrivato per i check-in. Menomale.
 Passato qualche minuto arriva effettivamente il padrone di casa. Il check-in sarà fatto in ordine di arrivo, dice. La prima ad avvicinarsi è Ariel, una ragazza dai capelli rossi che andrà a dormire nella stanza per saccopelisti. Dopo di lei è il turno dei fratelli Legumi, due uomini sui 40 anni che verranno da tutti *sempre* nominati in coppia, anteponendo *sempre* il titolo di fratelli al loro cognome. A un certo punto ho persino cominciato a sospettare che nessuno sapesse i loro nomi. Anche loro passeranno la notte nella stanza per saccopelisti. Infine ci presentiamo noi, che da bravi borghesi abbiamo prenotato una comodissima stanza dotata di tutti i comfort.<br>
 Effettuato il check-in, il padrone ci propone di tornare giù dopo la doccia per berci una birra tutti insieme. Come si fa a rifiutare?<br>
@@ -119,6 +140,14 @@ Pregustando la meritata birra scendiamo nella sala comune, dove troviamo i frate
 - Siamo arrivati in largo anticipo, di solito la gente arriva intorno alle 18. Addirittura un ragazzo non tanto tempo fa era arrivato alle 22, avevano provato a chiamarlo più volte, ma aveva il telefono spento. Parte così il rant contro gli sconsiderati che arrivano la mattina tardi a Bologna, proprio come noi. Però noi siamo arrivati in anticipo, quindi siamo dei fighi. Quest'ultima parte lui non l'ha detta, ma lo dico io.
 
 A questo punto sono quasi le 19 e iniziamo ad avere un certo languore, ma la regola è che si mangia tutti assieme e finché non arriva l'ultimo non si cucina. Di lì a pochi minuti arrivano tutti gli ospiti mancanti, fra cui le tre ragazze che avevamo incontrato la mattina, da ora soprannominate le Tre Marie. Siccome non manca più nessuno ci viene detto che saremmo stati chiamati con una campana una volta pronta la cena. Approfittiamo per tornare su a controllare lo stato di asciugatura dei panni che ho appeso tra due sedie usando delle vecchie stringhe di scarpe.
+
+<figure>
+  <Image
+    src="/posts/2025-04-24-Via-degli-Dei-1/AltaIngegneria.webp"
+    alt="Alta ingegneria"
+  />
+  <figcaption>Alta ingegneria</figcaption>
+</figure>
 
 Ormai decisamente affamati ci fiondiamo giù non appena sentiamo il suono della campana. I tavoli sono stati precedentemente assegnati in base alla dieta, noi, grazie a Dar, siamo nel tavolo vegetariano. Insieme a noi ci sono:
 - due ragazzi tedeschi che stanno facendo parte della VDD al contrario
